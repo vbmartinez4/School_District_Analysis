@@ -61,11 +61,12 @@ As shown on the table, the scores for the ninth graders at Thomas High School we
 -	Scores by school spending
 Original Analysis:
 
-![old_spending](Resources/old_spending_summary.png)
+![old_spending](Resources/old_spending_summary_df.png)
 
 
 Updated Analysis:
-![new_spending](Resources/new_spending_summary.png)
+
+![new_spending](Resources/new_spending_summary_df.png)
 
 As shown by the table, there seems to be no effect with replacing the ninth-graders scores with school spending. Therefore, placing the results of one grader had no impact the scores by school spending. 
 
@@ -73,7 +74,14 @@ As shown by the table, there seems to be no effect with replacing the ninth-grad
 Comparing the scores by school of the original data and the new data, it can be seen that there is no effect on the scores of the school size based on the replacement of Thomas High School ninth grade class.
 
 -	Scores by school type
+Original Analysis:
 
+![old_type](Resources/old_type_summary.png)
+
+
+Updated Analysis:
+
+![new_type](Resources/new_type_summary.png)
 
 Lastly, comparing the scores by school type demonstrates no change in the data when comparing the original dataset and the one with the altered grades of the ninth grade students at Thomas High School. The replacement of their grades was inconsequential to the based on comparing Charter and District schools. 
 
