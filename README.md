@@ -35,6 +35,9 @@ Reviewing the per school summary dataframe, we can see that the results in all c
 ### The Effect of Replacing Test Scores Regarding Performance
 
 
+! [performance](Resources/performance_new.png)
+
+
 In the area of performance, Thomas High School continues to rank among the top five schools in the district in terms of the school’s rate of Overall Passing. As mentioned previous, the averages for math and reading and the passing rates of these subjects declined slightly, but in terms of ranking, it appears to have had no major impact to the school’s standing in comparison to the whole district. Essentially, replacing the data did not have significant impact on Thomas High School’s performance. 
 
 ### Replacing the ninth-grade scores affected the following:
@@ -71,6 +74,15 @@ Updated Analysis:
 As shown by the table, there seems to be no effect with replacing the ninth-graders scores with school spending. Therefore, placing the results of one grader had no impact the scores by school spending. 
 
 -	Scores by school size
+Original Analysis:
+
+![old_size_summary](Resources/old_size.png)
+
+
+Updated Analysis:
+
+![size_summary](Resources/size_summary.png)
+
 Comparing the scores by school of the original data and the new data, it can be seen that there is no effect on the scores of the school size based on the replacement of Thomas High School ninth grade class.
 
 -	Scores by school type
