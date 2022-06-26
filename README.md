@@ -17,7 +17,10 @@ Ultimately, this data wrangling, cleaning, and analysis will assist the school b
 ## Challenge Results
 
 ### District Summary
-With replacing the ninth-graders scores at Thomas High School, we are able to see that the district average score for math and the percentage of students passing math, reading, and overall, has decreased in comparison to the original analysis. By excluding the data of the ninth graders, the DataFrame depicts the scores in these categories to have dropped by 0.1 to 0.3. Not drastic shifts of the data but enough to demonstrate that the district’s data of all 15 schools dropped by the minutest tenth of a decimal. 
+
+![district_summary](Resources/district_summary_new.png)
+
+With replacing the ninth-graders scores at Thomas High School, we are able to see that the district average score for math and the percentage of students passing math, reading, and overall, has decreased in comparison to the original analysis. By excluding the data of the ninth graders, the DataFrame depicts the scores in these categories to have dropped. Not drastic shifts of the data but enough to demonstrate that the district’s data of all 15 schools dropped by the minutest tenth of a decimal. 
 
 ### School Summary
 Reviewing the per school summary dataframe, we can see that the results in all categories for Thomas High School have all decreased in comparison to the other 14 schools. The removal of the ninth grade students test scores caused the averages and rates of passing in each subject and overall school standing to decrease. 
