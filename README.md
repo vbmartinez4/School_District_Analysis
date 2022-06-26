@@ -43,6 +43,7 @@ In the area of performance, Thomas High School continues to rank among the top f
 ### Replacing the ninth-grade scores affected the following:
 
 - Math and reading scores (respectively) by grade
+
 Original Analysis:
 
 ![old_math](Resources/old_math_score_grade.png)
@@ -62,6 +63,7 @@ Updated Analysis:
 As shown on the table, the scores for the ninth graders at Thomas High School were removed and therefore not taken into account anymore. The original data analysis scores that their reading score was an average of 83.7 and their math score average was 83.6. 
 
 -	Scores by school spending
+	
 Original Analysis:
 
 ![old_spending](Resources/old_spending_summary_df.png)
@@ -74,6 +76,7 @@ Updated Analysis:
 As shown by the table, there seems to be no effect with replacing the ninth-graders scores with school spending. Therefore, placing the results of one grader had no impact the scores by school spending. 
 
 -	Scores by school size
+
 Original Analysis:
 
 ![old_size_summary](Resources/old_size.png)
@@ -86,6 +89,7 @@ Updated Analysis:
 Comparing the scores by school of the original data and the new data, it can be seen that there is no effect on the scores of the school size based on the replacement of Thomas High School ninth grade class.
 
 -	Scores by school type
+
 Original Analysis:
 
 ![old_type](Resources/old_type_summary.png)
