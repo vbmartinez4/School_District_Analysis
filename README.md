@@ -23,23 +23,46 @@ Ultimately, this data wrangling, cleaning, and analysis will assist the school b
 With replacing the ninth-graders scores at Thomas High School, we are able to see that the district average score for math and the percentage of students passing math, reading, and overall, has decreased in comparison to the original analysis. By excluding the data of the ninth graders, the DataFrame depicts the scores in these categories to have dropped. Not drastic shifts of the data but enough to demonstrate that the district’s data of all 15 schools dropped by the minutest tenth of a decimal. 
 
 ### School Summary
+
+![school_summary](Resources/school_summary_new.png)
+
 Reviewing the per school summary dataframe, we can see that the results in all categories for Thomas High School have all decreased in comparison to the other 14 schools. The removal of the ninth grade students test scores caused the averages and rates of passing in each subject and overall school standing to decrease. 
 
 ### The Effect of Replacing Test Scores Regarding Performance
+
+
 In the area of performance, Thomas High School continues to rank among the top five schools in the district in terms of the school’s rate of Overall Passing. As mentioned previous, the averages for math and reading and the passing rates of these subjects declined slightly, but in terms of ranking, it appears to have had no major impact to the school’s standing in comparison to the whole district. Essentially, replacing the data did not have significant impact on Thomas High School’s performance. 
 
 ### Replacing the ninth-grade scores affected the following:
 
 - Math and reading scores by grade
+Original Analysis:
+![old_math](Resources/old_math_score_grade.png)
+
+![old_reading](Resources/old_reading_score_grade.png)
+
+Updated Analysis:
+![new_math](Resources/new_math_score_grade.png)
+
+![new_reading](Resources/new_reading_score_grade.png)
+
 As shown on the table, the scores for the ninth graders at Thomas High School were removed and therefore not taken into account anymore. The original data analysis scores that their reading score was an average of 83.7 and their math score average was 83.6. 
 
 -	Scores by school spending
+Original Analysis:
+![old_spending](Resources/old_spending_summary.png)
+
+Updated Analysis:
+![new_spending](Resources/new_spending_summary.png)
+
 As shown by the table, there seems to be no effect with replacing the ninth-graders scores with school spending. Therefore, placing the results of one grader had no impact the scores by school spending. 
 
 -	Scores by school size
 Comparing the scores by school of the original data and the new data, it can be seen that there is no effect on the scores of the school size based on the replacement of Thomas High School ninth grade class.
 
 -	Scores by school type
+
+
 Lastly, comparing the scores by school type demonstrates no change in the data when comparing the original dataset and the one with the altered grades of the ninth grade students at Thomas High School. The replacement of their grades was inconsequential to the based on comparing Charter and District schools. 
 
 ## Challenge Summary 
