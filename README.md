@@ -41,7 +41,4 @@ Lastly, comparing the scores by school type demonstrates no change in the data w
 
 ## Challenge Summary 
 
-1.	The overall passing rate for Thomas High School has shifted, originally having a passing rate of 91% to 65% now. 
-2.	Now the data at the ninth grade level for Thomas High School reflects “NaN”, after originally having high averages of around 83 for both math and reading scores. 
-3.	There were shifts in the averages of the math and reading scores 
-4.	The district rates also shifted as a result of the changes in the data, caused a slight decrease in all of the rates in every category. 
+There are four distinct changes in the updated school district analysis that were noticed after conducting the changes in the ninth graders results at Thonas High School. First, the overall passing rate for Thomas High School has shifted, originally having a passing rate of 91% to 65%. A significant change and decrease in the overall passing rate for the school. Secondly, the data at the ninth grade level for Thomas High School reflects “NaN”, after originally numerical averages for both math and reading scores. It is the only school in the dataset to have results replaced and alter its overall school and grade performance. There were also shifts in the averages of the math and reading scores, causing the rate in both subject fields to fall slightly. Lastly, the overall district rates also shifted as a result of the changes in the data, caused a slight decrease in all of the rates in every category that encompassesd the 15 schools. 
