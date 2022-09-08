@@ -1,6 +1,6 @@
-# School_District_Analysis
+# School District Analysis
 
-## Project Overview
+## Overview
 Maria, the chief data scientist for a city school district, has requested assistance for analyzing and reporting standardize test data reporting to determine and locate trends and patterns based upon the city’s schools testing proficiencies in the areas of math and reading. This information will aid in discussions focusing on strategic decisions at the school and district level. For the data collected, we will be analyzing data on student funding and their standardized test scores, in addition to data provided on the school level itself such as school type, size, and budget. 
 
 In the initial examination of the data, we were able to determine the following metrics: 
@@ -12,9 +12,24 @@ In the initial examination of the data, we were able to determine the following 
 
 This time around, the school board has notified Maria that the test scores for the ninth grade students at Thomas High School had been altered. Therefore, Maria has asked us to revisit the original analysis and replace math and reading scores for Thomas High School with “NaNs” while keeping the rest of the data intact. Once they have been replaced, the school district analysis was repeated in determine how the new data alterations affected the overall analysis.  
 
-Ultimately, this data wrangling, cleaning, and analysis will assist the school board regarding future school budgets and priorities of the fifteen schools that data was collected from. 
+Ultimately, this data wrangling, cleaning, and analysis will assist the school board regarding future school budgets and priorities of the fifteen schools that data was collected from.
 
-## Challenge Results
+## Tools Used:
+- Python
+- Pandas
+- Jupyter Notebook
+
+## Objectives:
+- Open Jupyter Notebook files from local directories using a development environment.
+- Read an external CSV file into a DataFrame.
+- Format a DataFrame column.
+- Determine data types of row values in a DataFrame.
+- Retrieve data from specific columns of a DataFrame.
+- Merge, filter, slice, and sort a DataFrame.
+- Use multiple methods to perform a function on a DataFrame.
+- Perform mathematical calculations on columns of a DataFrame or Series.
+
+## Results
 
 ### District Summary
 
@@ -101,6 +116,6 @@ Updated Analysis:
 
 Lastly, comparing the scores by school type demonstrates no change in the data when comparing the original dataset and the one with the altered grades of the ninth grade students at Thomas High School. The replacement of their grades was inconsequential to the based on comparing Charter and District schools. 
 
-## Challenge Summary 
+## Summary 
 
 There are four distinct changes in the updated school district analysis that were noticed after conducting the changes in the ninth graders results at Thonas High School. First, the overall passing rate for Thomas High School has shifted, originally having a passing rate of 91% to 65%. A significant change and decrease in the overall passing rate for the school. Secondly, the data at the ninth grade level for Thomas High School reflects “NaN”, after originally numerical averages for both math and reading scores. It is the only school in the dataset to have results replaced and alter its overall school and grade performance. There were also shifts in the averages of the math and reading scores, causing the rate in both subject fields to fall slightly. Lastly, the overall district rates also shifted as a result of the changes in the data, caused a slight decrease in all of the rates in every category that encompassesd the 15 schools. 
